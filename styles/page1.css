@@ -1,0 +1,79 @@
+div#page1 {
+  border: 1px solid transparent;
+  background: none;
+  box-shadow: none;
+  text-align: center;
+}
+
+div#page1 > h1.mainTitle {
+  font-size: 48px;
+  font-family: Arial;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-shadow: -2px -2px #320;
+}
+div#page1 > div.cadre {
+  padding: 10px;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+div#page1 > div.cadre > h2.divTitle {
+  font-size: 32px;
+  font-family: "Roboto Condensed";
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-shadow: -1px -1px #320;
+  margin-bottom: 30px;
+  color: #FFCC00;
+}
+div#page1 > div.cadre > p#authors {
+  font-size: 20px;
+  font-family: "Roboto Condensed";
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-shadow: -1px -1px #320;
+  color: #FFCC00;
+  margin-top: 20px;
+}
+
+div#page1 > #guide {
+  width: 140px;
+  position: absolute;
+  left: calc(50% - 70px + 10px);
+  bottom: 50px;
+  
+  font-size: 16px;
+  font-family: "Roboto Condensed";
+  font-weight: 100;
+  letter-spacing: 1px;
+  color: white;
+  cursor: pointer;
+}
+div#page1 > #guide:hover {
+  letter-spacing: 3px;
+  color: #FC0;
+}
+
+/*
+div#page2 {
+  background: radial-gradient( rgba(65, 170, 230, 0.3), rgba(65, 70, 230, 0.2) ) ;
+}
+div#page3 {
+  background: radial-gradient( rgba(140, 200, 60, 0.3), rgba(140, 200, 60, 0.2) ) ;  
+}
+div#page4 {
+  background: radial-gradient( rgba(250, 150, 30, 0.3), rgba(250, 150, 30, 0.2) ) ;  
+}
+div#page5 {
+  background: radial-gradient( rgba(185, 30, 50, 0.3), rgba(185, 30, 50, 0.2) ) ;  
+}
+
+ Polymtl
+rgb(65, 170, 230)
+rgb(140, 200, 60)
+rgb(250, 150, 30)
+rgb(185, 30, 50)
+*/

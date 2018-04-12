@@ -1,0 +1,1005 @@
+A0111;Wheat
+A0112;Rice
+A0115;Corn
+A0116;Soybeans
+A0119;Cash Grains, Not Elsewhere Classified
+A0131;Cotton
+A0132;Tobacco
+A0133;Sugarcane and Sugar Beets
+A0134;Irish Potatoes
+A0139;Field Crops, Except Cash Grains, Not Elsewhere Classified
+A0161;Vegetables and Melons
+A0171;Berry Crops
+A0172;Grapes
+A0173;Tree Nuts
+A0174;Citrus Fruits
+A0175;Deciduous Tree Fruits
+A0179;Fruits and Tree Nuts, Not Elsewhere Classified
+A0181;Ornamental Floriculture and Nursery Products
+A0182;Food Crops Grown Under Cover
+A0191;General Farms, Primarily Crop
+A0211;Beef Cattle Feedlots
+A0212;Beef Cattle, Except Feedlots
+A0213;Hogs
+A0214;Sheep and Goats
+A0219;General Livestock, Except Dairy and Poultry
+A0241;Dairy Farms
+A0251;Broiler, Fryer, and Roaster Chickens
+A0252;Chicken Eggs
+A0253;Turkeys and Turkey Eggs
+A0254;Poultry Hatcheries
+A0259;Poultry and Eggs, Not Elsewhere Classified
+A0271;Fur-Bearing Animals and Rabbits
+A0272;Horses and Other Equines
+A0273;Animal Aquaculture
+A0279;Animal Specialties, Not Elsewhere Classified
+A0291;General Farms, Primarily Livestock and Animal Specialties
+A0711;Soil Preparation Services
+A0721;Crop Planting, Cultivating, and Protecting
+A0722;Crop Harvesting, Primarily by Machine
+A0723;Crop Preparation Services for Market, Except Cotton Ginning
+A0724;Cotton Ginning
+A0741;Veterinary Services for Livestock
+A0742;Veterinary Services for Animal Specialties
+A0751;Livestock Services, Except Veterinary
+A0752;Animal Specialty Services, Except Veterinary
+A0761;Farm Labor Contractors and Crew Leaders
+A0762;Farm Management Services
+A0781;Landscape Counseling and Planning
+A0782;Lawn and Garden Services
+A0783;Ornamental Shrub and Tree Services
+A0811;Timber Tracts
+A0831;Forest Nurseries and Gathering of Forest Products
+A0851;Forestry Services
+A0912;Finfish
+A0913;Shellfish
+A0919;Miscellaneous Marine Products
+A0921;Fish Hatcheries and Preserves
+A0971;Hunting and Trapping, and Game Propagation
+B1011;Iron Ores
+B1021;Copper Ores
+B1031;Lead and Zinc Ores
+B1041;Gold Ores
+B1044;Silver Ores
+B1061;Ferroalloy Ores, Except Vanadium
+B1081;Metal Mining Services
+B1094;Uranium-Radium-Vanadium Ores
+B1099;Miscellaneous Metal Ores, Not Elsewhere Classified
+B1221;Bituminous Coal and Lignite Surface Mining
+B1222;Bituminous Coal Underground Mining
+B1231;Anthracite Mining
+B1241;Coal Mining Services
+B1311;Crude Petroleum and Natural Gas
+B1321;Natural Gas Liquids
+B1381;Drilling Oil and Gas Wells
+B1382;Oil and Gas Field Exploration Services
+B1389;Oil and Gas Field Services, Not Elsewhere Classified
+B1411;Dimension Stone
+B1422;Crushed and Broken Limestone
+B1423;Crushed and Broken Granite
+B1429;Crushed and Broken Stone, Not Elsewhere Classified
+B1442;Construction Sand and Gravel
+B1446;Industrial Sand
+B1455;Kaolin and Ball Clay
+B1459;Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified
+B1474;Potash, Soda, and Borate Minerals
+B1475;Phosphate Rock
+B1479;Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified
+B1481;Nonmetallic Minerals Services, Except Fuels
+B1499;Miscellaneous Nonmetallic Minerals, Except Fuels
+C1521;General Contractors-Single-Family Houses
+C1522;General Contractors-Residential Buildings, Other Than Single-Family
+C1531;Operative Builders
+C1541;General Contractors-Industrial Buildings and Warehouses
+C1542;General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses
+C1611;Highway and Street Construction, Except Elevated Highways
+C1622;Bridge, Tunnel, and Elevated Highway Construction
+C1623;Water, Sewer, Pipeline, and Communications and Power Line Construction
+C1629;Heavy Construction, Not Elsewhere Classified
+C1711;Plumbing, Heating and Air-Conditioning
+C1721;Painting and Paper Hanging
+C1731;Electrical Work
+C1741;Masonry, Stone Setting, and Other Stone Work
+C1742;Plastering, Drywall, Acoustical, and Insulation Work
+C1743;Terrazzo, Tile, Marble, and Mosaic Work
+C1751;Carpentry Work
+C1752;Floor Laying and Other Floor Work, Not Elsewhere Classified
+C1761;Roofing, Siding, and Sheet Metal Work
+C1771;Concrete Work
+C1781;Water Well Drilling
+C1791;Structural Steel Erection
+C1793;Glass and Glazing Work
+C1794;Excavation Work
+C1795;Wrecking and Demolition Work
+C1796;Installation or Erection of Building Equipment, Not Elsewhere
+C1799;Special Trade Contractors, Not Elsewhere Classified
+D2011;Meat Packing Plants
+D2013;Sausages and Other Prepared Meat Products
+D2015;Poultry Slaughtering and Processing
+D2021;Creamery Butter
+D2022;Natural, Processed, and Imitation Cheese
+D2023;Dry, Condensed, and Evaporated Dairy Products
+D2024;Ice Cream and Frozen Desserts
+D2026;Fluid Milk
+D2032;Canned Specialties
+D2033;Canned Fruits, Vegetables, Preserves, Jams, and Jellies
+D2034;Dried and Dehydrated Fruits, Vegetables, and Soup Mixes
+D2035;Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings
+D2037;Frozen Fruits, Fruit Juices, and Vegetables
+D2038;Frozen Specialties, Not Elsewhere Classified
+D2041;Flour and Other Grain Mill Products
+D2043;Cereal Breakfast Foods
+D2044;Rice Milling
+D2045;Prepared Flour Mixes and Doughs
+D2046;Wet Corn Milling
+D2047;Dog and Cat Food
+D2048;Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats
+D2051;Bread and Other Bakery Products, Except Cookies and Crackers
+D2052;Cookies and Crackers
+D2053;Frozen Bakery Products, Except Bread
+D2061;Cane Sugar, Except Refining
+D2062;Cane Sugar Refining
+D2063;Beet Sugar
+D2064;Candy and Other Confectionery Products
+D2066;Chocolate and Cocoa Products
+D2067;Chewing Gum
+D2068;Salted and Roasted Nuts and Seeds
+D2074;Cottonseed Oil Mills
+D2075;Soybean Oil Mills
+D2076;Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean
+D2077;Animal and Marine Fats and Oils
+D2079;Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified
+D2082;Malt Beverages
+D2083;Malt
+D2084;Wines, Brandy, and Brandy Spirits
+D2085;Distilled and Blended Liquors
+D2086;Bottled and Canned Soft Drinks and Carbonated Waters
+D2087;Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified
+D2091;Canned and Cured Fish and Seafoods
+D2092;Prepared Fresh or Frozen Fish and Seafoods
+D2095;Roasted Coffee
+D2096;Potato Chips, Corn Chips, and Similar Snacks
+D2097;Manufactured Ice
+D2098;Macaroni, Spaghetti, Vermicelli, and Noodles
+D2099;Food Preparations, Not Elsewhere Classified
+D2111;Cigarettes
+D2121;Cigars
+D2131;Chewing and Smoking Tobacco and Snuff
+D2141;Tobacco Stemming and Redrying
+D2211;Broadwoven Fabric Mills, Cotton
+D2221;Broadwoven Fabric Mills, Manmade Fiber and Silk
+D2231;Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)
+D2241;Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber
+D2251;Women's Full-Length and Knee-Length Hosiery, Except Socks
+D2252;Hosiery, Not Elsewhere Classified
+D2253;Knit Outerwear Mills
+D2254;Knit Underwear and Nightwear Mills
+D2257;Weft Knit Fabric Mills
+D2258;Lace and Warp Knit Fabric Mills
+D2259;Knitting Mills, Not Elsewhere Classified
+D2261;Finishers of Broadwoven Fabrics of Cotton
+D2262;Finishers of Broadwoven Fabrics of Manmade Fiber and Silk
+D2269;Finishers of Textiles, Not elsewhere Classified
+D2273;Carpets and Rugs
+D2281;Yarn Spinning Mills
+D2282;Yarn Texturizing, Throwing, Twisting, and Winding Mills
+D2284;Thread Mills
+D2295;Coated Fabrics, Not Rubberized
+D2296;Tire Cord and Fabrics
+D2297;Non-woven Fabrics
+D2298;Cordage and Twine
+D2299;Textile goods, Not Elsewhere Classified
+D2311;Men's and Boys' Suits, Coats, and Overcoats
+D2321;Men's and Boys' Shirts, Except Work Shirts
+D2322;Men's and Boys' Underwear and Nightwear
+D2323;Men's and Boys' Neckwear
+D2325;Men's and Boys' Separate Trousers and Slacks
+D2326;Men's and Boys' Work Clothing
+D2329;Men's and Boys' Clothing, Not Elsewhere Classified
+D2331;Women's, Misses', and Juniors' Blouses and Shirts
+D2335;Women's, Misses', and Juniors' Dresses
+D2337;Women's, Misses', and Juniors' Suits, Skirts, and Coats
+D2339;Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified
+D2341;Women's, Misses', Children's, and Infants' Underwear and Nightwear
+D2342;Brassieres, Girdles, and Allied Garments
+D2353;Hats, Caps, and Millinery
+D2361;Girls', Children's, and Infants' Dresses, Blouses, and Shirts
+D2369;Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified
+D2371;Fur Goods
+D2381;Dress and Work Gloves, Except Knit and All-Leather
+D2384;Robes and Dressing Gowns
+D2385;Waterproof Outerwear
+D2386;Leather and Sheep-Lined Clothing
+D2387;Apparel belts
+D2389;Apparel and Accessories, Not Elsewhere Classified
+D2391;Curtains and Draperies
+D2392;House furnishing, Except Curtains and Draperies
+D2393;Textile Bags
+D2394;Canvas and Related Products
+D2395;Pleating, Decorative and Novelty Stitching, and Tucking for the Trade
+D2396;Automotive Trimmings, Apparel Findings, and Related Products
+D2397;Schiffli Machine Embroideries
+D2399;Fabricated Textile Products, Not Elsewhere Classified
+D2411;Logging
+D2421;Sawmills and Planing Mills, General
+D2426;Hardwood Dimension and Flooring Mills
+D2429;Special Product Sawmills, Not Elsewhere Classified
+D2431;Millwork
+D2434;Wood Kitchen Cabinets
+D2435;Hardwood Veneer and Plywood
+D2436;Softwood Veneer and Plywood
+D2439;Structural Wood Members, Not Elsewhere Classified
+D2441;Nailed and Lock Corner Wood Boxes and Shook
+D2448;Wood Pallets and Skids
+D2449;Wood Containers, Not Elsewhere Classified
+D2451;Mobile Homes
+D2452;Prefabricated Wood Buildings and Components
+D2491;Wood Preserving
+D2493;Reconstituted Wood Products
+D2499;Wood Products, Not Elsewhere Classified
+D2511;Wood Household Furniture, Except Upholstered
+D2512;Wood Household Furniture, Upholstered
+D2514;Metal Household Furniture
+D2515;Mattresses, Foundations, and Convertible Beds
+D2517;Wood Television, Radio, Phonograph, and Sewing Machine Cabinets
+D2519;Household Furniture, Not Elsewhere Classified
+D2521;Wood Office Furniture
+D2522;Office Furniture, Except Wood
+D2531;Public Building and Related Furniture
+D2541;Wood Office and Store Fixtures, Partitions, Shelving, and Lockers
+D2542;Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood
+D2591;Drapery Hardware and Window Blinds and Shades
+D2599;Furniture and Fixtures, Not Elsewhere Classified
+D2611;Pulp Mills
+D2621;Paper Mills
+D2631;Paperboard Mills
+D2652;Setup Paperboard Boxes
+D2653;Corrugated and Solid Fiber Boxes
+D2655;Fiber Cans, Tubes, Drums, and Similar Products
+D2656;Sanitary Food Containers, Except Folding
+D2657;Folding Paperboard Boxes, Including Sanitary
+D2671;Packaging Paper and Plastics Film, Coated and Laminated
+D2672;Coated and Laminated Paper, Not Elsewhere Classified
+D2673;Plastics, Foil, and Coated Paper Bags
+D2674;Uncoated Paper and Multiwall Bags
+D2675;Die-Cut Paper and Paperboard and Cardboard
+D2676;Sanitary Paper Products
+D2677;Envelopes
+D2678;Stationery, Tablets, and Related Products
+D2679;Converted Paper and Paperboard Products, Not Elsewhere Classified
+D2711;Newspapers: Publishing, or Publishing and Printing
+D2721;Periodicals: Publishing, or Publishing and Printing
+D2731;Books: Publishing, or Publishing and Printing
+D2732;Book Printing
+D2741;Miscellaneous Publishing
+D2752;Commercial Printing, Lithographic
+D2754;Commercial Printing, Gravure
+D2759;Commercial Printing, Not Elsewhere Classified
+D2761;Manifold Business Forms
+D2771;Greeting Cards
+D2782;Blankbooks, Looseleaf Binders and Devices
+D2789;Bookbinding and Related Work
+D2791;Typesetting
+D2796;Platemaking and Related Services
+D2812;Alkalies and Chlorine
+D2813;Industrial Gases
+D2816;Inorganic Pigments
+D2819;Industrial Inorganic Chemicals, Not Elsewhere Classified
+D2821;Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers
+D2822;Synthetic Rubber (Vulcanizable Elastomers)
+D2823;Cellulosic Manmade Fibers
+D2824;Manmade Organic Fibers, Except Cellulosic
+D2833;Medicinal Chemicals and Botanical Products
+D2834;Pharmaceutical Preparations
+D2835;In Vitro and In Vivo Diagnostic Substances
+D2836;Biological Products, Except Diagnostic Substances
+D2841;Soap and Other Detergents, Except Specialty Cleaners
+D2842;Specialty Cleaning, Polishing, and Sanitation Preparations
+D2843;Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants
+D2844;Perfumes, Cosmetics, and Other Toilet Preparations
+D2851;Paints, Varnishes, Lacquers, Enamels, and Allied Products
+D2861;Gum and Wood Chemicals
+D2865;Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments
+D2869;Industrial Organic Chemicals, Not Elsewhere Classified
+D2873;Nitrogenous Fertilizers
+D2874;Phosphatic Fertilizers
+D2875;Fertilizers, Mixing Only
+D2879;Pesticides and Agricultural Chemicals, Not Elsewhere Classified
+D2891;Adhesives and Sealants
+D2892;Explosives
+D2893;Printing Ink
+D2895;Carbon Black
+D2899;Chemicals and Chemical Preparations, Not Elsewhere Classified
+D2911;Petroleum Refining
+D2951;Asphalt Paving Mixtures and Blocks
+D2952;Asphalt Felts and Coatings
+D2992;Lubricating Oils and Greases
+D2999;Products of Petroleum and Coal, Not Elsewhere Classified
+D3011;Tires and Inner Tubes
+D3021;Rubber and Plastics Footwear
+D3052;Rubber and Plastics Hose and Belting
+D3053;Gaskets, Packing, and Sealing Devices
+D3061;Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods
+D3069;Fabricated Rubber Products, Not Elsewhere Classified
+D3081;Unsupported Plastics Film and Sheet
+D3082;Unsupported Plastics Profile Shapes
+D3083;Laminated Plastics Plate, Sheet, and Profile Shapes
+D3084;Plastics Pipe
+D3085;Plastics Bottles
+D3086;Plastics Foam Products
+D3087;Custom Compounding of Purchased Plastics Resins
+D3088;Plastics Plumbing Fixtures
+D3089;Plastics Products, Not Elsewhere Classified
+D3111;Leather Tanning and Finishing
+D3131;Boot and Shoe Cut Stock and Findings
+D3142;House Slippers
+D3143;Men's Footwear, Except Athletic
+D3144;Women's Footwear, Except Athletic
+D3149;Footwear, Except Rubber, Not Elsewhere Classified
+D3151;Leather Gloves and Mittens
+D3161;Luggage
+D3171;Women's Handbags and Purses
+D3172;Personal Leather Goods, Except Women's Handbags and Purses
+D3199;Leather Goods, Not Elsewhere Classified
+D3211;Flat Glass
+D3221;Glass Containers
+D3229;Pressed and Blown Glass and Glassware, Not Elsewhere Classified
+D3231;Glass Products, Made of Purchased Glass
+D3241;Cement, Hydraulic
+D3251;Brick and Structural Clay Tile
+D3253;Ceramic Wall and Floor Tile
+D3255;Clay Refractories
+D3259;Structural Clay Products, Not Elsewhere Classified
+D3261;Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories
+D3262;Vitreous China Table and Kitchen Articles
+D3263;Fine Earthenware (Whiteware) Table and Kitchen Articles
+D3264;Porcelain Electrical Supplies
+D3269;Pottery Products, Not Elsewhere Classified
+D3271;Concrete Block and Brick
+D3272;Concrete Products, Except Block and Brick
+D3273;Ready-Mixed Concrete
+D3274;Lime
+D3275;Gypsum Products
+D3281;Cut Stone and Stone Products
+D3291;Abrasive Products
+D3292;Asbestos Products
+D3295;Minerals and Earths, Ground or Otherwise Treated
+D3296;Mineral Wool
+D3297;Nonclay Refractories
+D3299;Nonmetallic Mineral Products, Not Elsewhere Classified
+D3312;Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills
+D3313;Electrometallurgical Products, Except Steel
+D3315;Steel Wiredrawing and Steel Nails and Spikes
+D3316;Cold-Rolled Steel Sheet, Strip, and Bars
+D3317;Steel Pipe and Tubes
+D3321;Gray and Ductile Iron Foundries
+D3322;Malleable Iron Foundries
+D3324;Steel Investment Foundries
+D3325;Steel Foundries, Not Elsewhere Classified
+D3331;Primary Smelting and Refining of Copper
+D3334;Primary Production of Aluminum
+D3339;Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum
+D3341;Secondary Smelting and Refining of Nonferrous Metals
+D3351;Rolling, Drawing, and Extruding Of Copper
+D3353;Aluminum Sheet, Plate, and Foil
+D3354;Aluminum Extruded Products
+D3355;Aluminum Rolling and Drawing, Not Elsewhere Classified
+D3356;Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum
+D3357;Drawing and Insulating of Nonferrous Wire
+D3363;Aluminum Die-Castings
+D3364;Nonferrous Die-Castings, Except Aluminum
+D3365;Aluminum Foundries
+D3366;Copper Foundries
+D3369;Nonferrous Foundries, Except Aluminum and Copper
+D3398;Metal Heat Treating
+D3399;Primary Metal Products, Not Elsewhere Classified
+D3411;Metal Cans
+D3412;Metal Shipping Barrels, Drums, Kegs, and Pails
+D3421;Cutlery
+D3423;Hand and Edge Tools, Except Machine Tools and Handsaws
+D3425;Saw Blades and Handsaws
+D3429;Hardware, Not Elsewhere Classified
+D3431;Enameled Iron and Metal Sanitary Ware
+D3432;Plumbing Fixture Fittings and Trim
+D3433;Heating Equipment, Except Electric and Warm Air Furnaces
+D3441;Fabricated Structural Metal
+D3442;Metal Doors, Sash, Frames, Molding, and Trim Manufacturing
+D3443;Fabricated Plate Work (Boiler Shops)
+D3444;Sheet Metal Work
+D3446;Architectural and Ornamental Metal Work
+D3448;Prefabricated Metal Buildings and Components
+D3449;Miscellaneous Structural Metal Work
+D3451;Screw Machine Products
+D3452;Bolts, Nuts, Screws, Rivets, and Washers
+D3462;Iron and Steel Forgings
+D3463;Nonferrous Forgings
+D3465;Automotive Stampings
+D3466;Crowns and Closures
+D3469;Metal Stampings, Not Elsewhere Classified
+D3471;Electroplating, Plating, Polishing, Anodizing, and Coloring
+D3479;Coating, Engraving, and Allied Services, Not Elsewhere Classified
+D3482;Small Arms Ammunition
+D3483;Ammunition, Except for Small Arms
+D3484;Small Arms
+D3489;Ordnance and Accessories, Not Elsewhere Classified
+D3491;Industrial Valves
+D3492;Fluid Power Valves and Hose Fittings
+D3493;Steel Springs, Except Wire
+D3494;Valves and Pipe Fittings, Not Elsewhere Classified
+D3495;Wire Springs
+D3496;Miscellaneous Fabricated Wire Products
+D3497;Metal Foil and Leaf
+D3498;Fabricated Pipe and Pipe Fittings
+D3499;Fabricated Metal Products, Not Elsewhere Classified
+D3511;Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units
+D3519;Internal Combustion Engines, Not Elsewhere Classified
+D3523;Farm Machinery and Equipment
+D3524;Lawn and Garden Tractors and Home Lawn and Garden Equipment
+D3531;Construction Machinery and Equipment
+D3532;Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment
+D3533;Oil and Gas Field Machinery and Equipment
+D3534;Elevators and Moving Stairways
+D3535;Conveyors and Conveying Equipment
+D3536;Overhead Traveling Cranes, Hoists, and Monorail Systems
+D3537;Industrial Trucks, Tractors, Trailers, and Stackers
+D3541;Machine Tools, Metal Cutting Types
+D3542;Machine Tools, Metal Forming Types
+D3543;Industrial Patterns
+D3544;Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds
+D3545;Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices
+D3546;Power-Driven Handtools
+D3547;Rolling Mill Machinery and Equipment
+D3548;Electric and Gas Welding and Soldering Equipment
+D3549;Metalworking Machinery, Not Elsewhere Classified
+D3552;Textile Machinery
+D3553;Woodworking Machinery
+D3554;Paper Industries Machinery
+D3555;Printing Trades Machinery and Equipment
+D3556;Food Products Machinery
+D3559;Special Industry Machinery, Not Elsewhere Classified
+D3561;Pumps and Pumping Equipment
+D3562;Ball and Roller Bearings
+D3563;Air and Gas Compressors
+D3564;Industrial and Commercial Fans and Blowers and Air Purification Equipment
+D3565;Packaging Machinery
+D3566;Speed Changers, Industrial High-Speed Drives, and Gears
+D3567;Industrial Process Furnaces and Ovens
+D3568;Mechanical Power Transmission Equipment, Not Elsewhere Classified
+D3569;General Industrial Machinery and Equipment, Not Elsewhere
+D3571;Electronic Computers
+D3572;Computer Storage Devices
+D3575;Computer Terminals
+D3577;Computer Peripheral Equipment, Not Elsewhere Classified
+D3578;Calculating and Accounting Machines, Except Electronic Computers
+D3579;Office Machines, Not Elsewhere Classified
+D3581;Automatic Vending Machines
+D3582;Commercial Laundry, Drycleaning, and Pressing Machines
+D3585;Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment
+D3586;Measuring and Dispensing Pumps
+D3589;Service Industry Machinery, Not Elsewhere Classified
+D3592;Carburetors, Pistons, Piston Rings, and Valves
+D3593;Fluid Power Cylinders and Actuators
+D3594;Fluid Power Pumps and Motors
+D3596;Scales and Balances, Except Laboratory
+D3599;Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified
+D3612;Power, Distribution, and Specialty Transformers
+D3613;Switchgear and Switchboard Apparatus
+D3621;Motors and Generators
+D3624;Carbon and Graphite Products
+D3625;Relays and Industrial Controls
+D3629;Electrical Industrial Apparatus, Not Elsewhere Classified
+D3631;Household Cooking Equipment
+D3632;Household Refrigerators and HOme and Farm Freezers
+D3633;Household Laundry Equipment
+D3634;Electric Housewares and Fans
+D3635;Household Vacuum Cleaners
+D3639;Household Appliances, Not Elsewhere Classified
+D3641;Electric Lamp Bulbs and Tubes
+D3643;Current-Carrying Wiring Devices
+D3644;Noncurrent-Carrying Wiring Devices
+D3645;Residential Electric Lighting Fixtures
+D3646;Commercial, Industrial, and Institutional Electric Lighting Fixtures
+D3647;Vehicular Lighting Equipment
+D3648;Lighting Equipment, Not Elsewhere Classified
+D3651;Household Audio and Video Equipment
+D3652;Phonograph Records and Prerecorded Audio Tapes and Disks
+D3661;Telephone and Telegraph Apparatus
+D3663;Radio and Television Broadcasting and Communications Equipment
+D3669;Communications Equipment, Not Elsewhere Classified
+D3671;Electron Tubes
+D3672;Printed Circuit Boards
+D3674;Semiconductors and Related Devices
+D3675;Electronic Capacitors
+D3676;Electronic Resistors
+D3677;Electronic Coils, Transformers, and Other Inductors
+D3678;Electronic Connectors
+D3679;Electronic Components, Not Elsewhere Classified
+D3691;Storage Batteries
+D3692;Primary Batteries, Dry and Wet
+D3694;Electrical Equipment for Internal Combustion Engines
+D3695;Magnetic And Optical Recording Media
+D3699;Electrical Machinery, Equipment, and Supplies, Not Elsewhere
+D3711;Motor Vehicles and Passenger Car Bodies
+D3713;Truck and Bus Bodies
+D3714;Motor Vehicle Parts and Accessories
+D3715;Truck Trailers
+D3716;Motor Homes
+D3721;Aircraft
+D3724;Aircraft Engines and Engine Parts
+D3728;Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified
+D3731;Ship Building and Repairing
+D3732;Boat Building and Repairing
+D3743;Railroad Equipment
+D3751;Motorcycles, Bicycles, and Parts
+D3761;Guided Missiles and Space Vehicles
+D3764;Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts
+D3769;Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified
+D3792;Travel Trailers and Campers
+D3795;Tanks and Tank Components
+D3799;Transportation Equipment, Not Elsewhere Classified
+D3812;Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments
+D3821;Laboratory Apparatus and Furniture
+D3822;Automatic Controls for Regulating Residential and Commercial Environments and Appliances
+D3823;Industrial Instruments for Measurement, Display, and Control of Process Variables, and Related Products
+D3824;Totalizing Fluid Meters and Counting Devices
+D3825;Instruments for Measuring and Testing of Electricity and Electrical Signals
+D3826;Laboratory Analytical Instruments
+D3827;Optical Instruments and Lenses
+D3829;Measuring and Controlling Devices, Not Elsewhere Classified
+D3841;Surgical and Medical Instruments and Apparatus
+D3842;Orthopedic, Prosthetic, and Surgical Appliances and Supplies
+D3843;Dental Equipment and Supplies
+D3844;X-Ray Apparatus and Tubes and Related Irradiation Apparatus
+D3845;Electromedical and Electrotherapeutic Apparatus
+D3851;Ophthalmic Goods
+D3861;Photographic Equipment and Supplies
+D3873;Watches, Clocks, Clockwork Operated Devices, and Parts
+D3911;Jewelry, Precious Metal
+D3914;Silverware, Plated Ware, and Stainless Steel Ware
+D3915;Jewelers' Findings and Materials, and Lapidary Work
+D3931;Musical Instruments
+D3942;Dolls and Stuffed Toys
+D3944;Games, Toys, and Children's Vehicles, Except Dolls and Bicycles
+D3949;Sporting and Athletic Goods, Not Elsewhere Classified
+D3951;Pens, Mechanical Pencils, and Parts
+D3952;Lead Pencils, Crayons, and Artists' Materials
+D3953;Marking Devices
+D3955;Carbon Paper and Inked Ribbons
+D3961;Costume Jewelry and Costume Novelties, Except Precious Metal
+D3965;Fasteners, Buttons, Needles, and Pins
+D3991;Brooms and Brushes
+D3993;Signs and Advertising Specialties
+D3995;Burial Caskets
+D3996;Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified
+D3999;Manufacturing Industries, Not Elsewhere Classified
+E4011;Railroads, Line-Haul Operating
+E4013;Railroad Switching and Terminal Establishments
+E4111;Local and Suburban Transit
+E4119;Local Passenger Transportation, Not Elsewhere Classified
+E4121;Taxicabs
+E4131;Intercity and Rural Bus Transportation
+E4141;Local Bus Charter Service
+E4142;Bus Charter Service, Except Local
+E4151;School Buses
+E4173;Terminal and Service Facilities for Motor Vehicle Passenger Transportation
+E4212;Local Trucking Without Storage
+E4213;Trucking, Except Local
+E4214;Local Trucking With Storage
+E4215;Courier Services, Except by Air
+E4221;Farm Product Warehousing and Storage
+E4222;Refrigerated Warehousing and Storage
+E4225;General Warehousing and Storage
+E4226;Special Warehousing and Storage, Not Elsewhere Classified
+E4231;Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation
+E4311;United States Postal Service
+E4412;Deep Sea Foreign Transportation of Freight
+E4424;Deep Sea Domestic Transportation of Freight
+E4432;Freight Transportation on the Great Lakes-St. Lawrence Seaway
+E4449;Water Transportation of Freight, Not Elsewhere Classified
+E4481;Deep Sea Transportation of Passengers, Except by Ferry
+E4482;Ferries
+E4489;Water Transportation of Passengers, Not Elsewhere Classified
+E4491;Marine Cargo Handling
+E4492;Towing and Tugboat Services
+E4493;Marinas
+E4499;Water Transportation Services, Not Elsewhere Classified
+E4512;Air Transportation, Scheduled
+E4513;Air Courier Services
+E4522;Air Transportation, Nonscheduled
+E4581;Airports, Flying Fields, and Airport Terminal Services
+E4612;Crude Petroleum Pipelines
+E4613;Refined Petroleum Pipelines
+E4619;Pipelines, Not Elsewhere Classified
+E4724;Travel Agencies
+E4725;Tour Operators
+E4729;Arrangement of Passenger Transportation, Not Elsewhere Classified
+E4731;Arrangement of Transportation of Freight and Cargo
+E4741;Rental of Railroad Cars
+E4783;Packing and Crating
+E4785;Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation
+E4789;Transportation Services, Not Elsewhere Classified
+E4812;Radiotelephone Communications
+E4813;Telephone Communications, Except Radiotelephone
+E4822;Telegraph and Other Message Communications
+E4832;Radio Broadcasting Stations
+E4833;Television Broadcasting Stations
+E4841;Cable and Other Pay Television Services
+E4899;Communications Services, Not Elsewhere Classified
+E4911;Electric Services
+E4922;Natural Gas Transmission
+E4923;Natural Gas Transmission and Distribution
+E4924;Natural Gas Distribution
+E4925;Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or
+E4931;Electric and Other Services Combined
+E4932;Gas and Other Services Combined
+E4939;Combination Utilities, Not Elsewhere Classified
+E4941;Water Supply
+E4952;Sewerage Systems
+E4953;Refuse Systems
+E4959;Sanitary Services, Not Elsewhere Classified
+E4961;Steam and Air-Conditioning Supply
+E4971;Irrigation Systems
+F5012;Automobiles and Other Motor Vehicles
+F5013;Motor Vehicle Supplies and New Parts
+F5014;Tires and Tubes
+F5015;Motor Vehicle Parts, Used
+F5021;Furniture
+F5023;Home furnishings
+F5031;Lumber, Plywood, Millwork, and Wood Panels
+F5032;Brick, Stone, and Related Construction Materials
+F5033;Roofing, Siding, and Insulation Materials
+F5039;Construction Materials, Not Elsewhere Classified
+F5043;Photographic Equipment and Supplies
+F5044;Office Equipment
+F5045;Computers and Computer Peripheral Equipment and Software
+F5046;Commercial Equipment, Not Elsewhere Classified
+F5047;Medical, Dental, and Hospital Equipment and Supplies
+F5048;Ophthalmic Goods
+F5049;Professional Equipment and Supplies, Not Elsewhere Classified
+F5051;Metals Service Centers and Offices
+F5052;Coal and Other Minerals and Ores
+F5063;Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials
+F5064;Electrical Appliances, Television and Radio Sets
+F5065;Electronic Parts and Equipment, Not Elsewhere Classified
+F5072;Hardware
+F5074;Plumbing and Heating Equipment and Supplies (Hydronics)
+F5075;Warm Air Heating and Air-Conditioning Equipment and Supplies
+F5078;Refrigeration Equipment and Supplies
+F5082;Construction and Mining (Except Petroleum) Machinery and Equipment
+F5083;Farm and Garden Machinery and Equipment
+F5084;Industrial Machinery and Equipment
+F5085;Industrial Supplies
+F5087;Service Establishment Equipment and Supplies
+F5088;Transportation Equipment and Supplies, Except Motor Vehicles
+F5091;Sporting and Recreational Goods and Supplies
+F5092;Toys and Hobby Goods and Supplies
+F5093;Scrap and Waste Materials
+F5094;Jewelry, Watches, Precious Stones, and Precious Metals
+F5099;Durable Goods, Not Elsewhere Classified
+F5111;Printing and Writing Paper
+F5112;Stationery and Office Supplies
+F5113;Industrial and Personal Service Paper
+F5122;Drugs, Drug Proprietaries, and Druggists' Sundries
+F5131;Piece Goods, Notions, and Other Dry Good
+F5136;Men's and Boy's Clothing and Furnishings
+F5137;Women's, Children's, and Infants' Clothing and Accessories
+F5139;Footwear
+F5141;Groceries, General Line
+F5142;Packaged Frozen Foods
+F5143;Dairy Products, Except Dried or Canned
+F5144;Poultry and Poultry Products
+F5145;Confectionery
+F5146;Fish and Seafoods
+F5147;Meats and Meat Products
+F5148;Fresh Fruits and Vegetables
+F5149;Groceries and Related Products, Not Elsewhere Classified
+F5153;Grain and Field Beans
+F5154;Livestock
+F5159;Farm-Product Raw Materials, Not Elsewhere Classified
+F5162;Plastics Materials and Basic Forms and Shapes
+F5169;Chemicals and Allied Products, Not Elsewhere Classified
+F5171;Petroleum Bulk stations and Terminals
+F5172;Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals
+F5181;Beer and Ale
+F5182;Wine and Distilled Alcoholic Beverages
+F5191;Farm Supplies
+F5192;Books, Periodicals, and Newspapers
+F5193;Flowers, Nursery Stock, and Florists' Supplies
+F5194;Tobacco and Tobacco Products
+F5198;Paints, Varnishes, and Supplies
+F5199;Nondurable Goods, Not Elsewhere Classified
+G5211;Lumber and Other Building Materials Dealers
+G5231;Paint, Glass, and Wallpaper Stores
+G5251;Hardware Stores
+G5261;Retail Nurseries, Lawn and Garden Supply Stores
+G5271;Mobile Home Dealers
+G5311;Department Stores
+G5331;Variety Stores
+G5399;Miscellaneous General Merchandise Stores
+G5411;Grocery Stores
+G5421;Meat and Fish (Seafood) Markets, Including Freezer Provisioners
+G5431;Fruit and Vegetable Markets
+G5441;Candy, Nut, and Confectionery Stores
+G5451;Dairy Products Stores
+G5461;Retail Bakeries
+G5499;Miscellaneous Food Stores
+G5511;Motor Vehicle Dealers (New and Used)
+G5521;Motor Vehicle Dealers (Used Only)
+G5531;Auto and Home Supply Stores
+G5541;Gasoline Service Stations
+G5551;Boat Dealers
+G5561;Recreational Vehicle Dealers
+G5571;Motorcycle Dealers
+G5599;Automotive Dealers, Not Elsewhere Classified
+G5611;Men's and Boys' Clothing and Accessory Stores
+G5621;Women's Clothing Stores
+G5632;Women's Accessory and Specialty Stores
+G5641;Children's and Infants' Wear Stores
+G5651;Family Clothing Stores
+G5661;Shoe Stores
+G5699;Miscellaneous Apparel and Accessory Stores
+G5712;Furniture Stores
+G5713;Floor Covering Stores
+G5714;Drapery, Curtain, and Upholstery Stores
+G5719;Miscellaneous home furnishings Stores
+G5722;Household Appliance Stores
+G5731;Radio, Television, and Consumer Electronics Stores
+G5734;Computer and Computer Software Stores
+G5735;Record and Prerecorded Tape Stores
+G5736;Musical Instrument Stores
+G5812;Eating Places
+G5813;Drinking Places (alcoholic Beverages)
+G5912;Drug Stores and Proprietary Stores
+G5921;Liquor Stores
+G5932;Used Merchandise Stores
+G5941;Sporting Goods Stores and Bicycle Shops
+G5942;Book Stores
+G5943;Stationery Stores
+G5944;Jewelry Stores
+G5945;Hobby, Toy, and Game Shops
+G5946;Camera and Photographic Supply Stores
+G5947;Gift, Novelty, and Souvenir Shops
+G5948;Luggage and Leather Goods Stores
+G5949;Sewing, Needlework, and Piece Goods Stores
+G5961;Catalog and Mail-Order Houses
+G5962;Automatic Merchandising Machine Operators
+G5963;Direct Selling Establishments
+G5983;Fuel Oil Dealers
+G5984;Liquefied Petroleum Gas (Bottled Gas) Dealers
+G5989;Fuel Dealers, Not Elsewhere Classified
+G5992;Florists
+G5993;Tobacco Stores and Stands
+G5994;News Dealers and Newsstands
+G5995;Optical Goods Stores
+G5999;Miscellaneous Retail Stores, Not Elsewhere Classified
+H6011;Federal Reserve Banks
+H6019;Central Reserve Depository Institutions, Not Elsewhere Classified
+H6021;National Commercial Banks
+H6022;State Commercial Banks
+H6029;Commercial Banks, Not Elsewhere Classified
+H6035;Savings Institutions, Federally Chartered
+H6036;Savings Institutions, Not Federally Chartered
+H6061;Credit Unions, Federally Chartered
+H6062;Credit Unions, Not Federally Chartered
+H6081;Branches and Agencies of Foreign Banks
+H6082;Foreign Trade and International Banking Institutions
+H6091;Non-deposit Trust Facilities,
+H6099;Functions Related to Depository Banking, Not Elsewhere Classified
+H6111;Federal and Federally-Sponsored Credit Agencies
+H6141;Personal Credit Institutions
+H6153;Short-Term Business Credit Institutions, Except Agricultural
+H6159;Miscellaneous business Credit Institutions
+H6162;Mortgage Bankers and Loan Correspondents
+H6163;Loan Brokers
+H6211;Security Brokers, Dealers, and Flotation Companies
+H6221;Commodity Contracts Brokers and Dealers
+H6231;Security and Commodity Exchanges
+H6282;Investment Advice
+H6289;Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified
+H6311;Life Insurance
+H6321;Accident and Health Insurance
+H6324;Hospital and Medical Service Plans
+H6331;Fire, Marine, and Casualty Insurance
+H6351;Surety Insurance
+H6361;Title Insurance
+H6371;Pension, Health, and Welfare Funds
+H6399;Insurance Carriers, Not Elsewhere Classified
+H6411;Insurance Agents, Brokers, and Service
+H6512;Operators of Nonresidential Buildings
+H6513;Operators of Apartment Buildings
+H6514;Operators of Dwellings Other Than Apartment Buildings
+H6515;Operators of Residential Mobile Home Sites
+H6517;Lessors of Railroad Property
+H6519;Lessors of Real Property, Not Elsewhere Classified
+H6531;Real Estate Agents and Managers
+H6541;Title Abstract Offices
+H6552;Land Subdividers and Developers, Except Cemeteries
+H6553;Cemetery Subdividers and Developers
+H6712;Offices of Bank Holding Companies
+H6719;Offices of Holding Companies, Not Elsewhere Classified
+H6722;Management Investment Offices, Open-End
+H6726;Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices
+H6732;Educational, Religious, and Charitable Trusts
+H6733;Trusts, Except Educational, Religious, and Charitable
+H6792;Oil Royalty Traders
+H6794;Patent Owners and Lessors
+H6798;Real Estate Investment Trusts
+H6799;Investors, Not Elsewhere Classified
+I7011;Hotels and Motels
+I7021;Rooming and Boarding Houses
+I7032;Sporting and Recreational Camps
+I7033;Recreational Vehicle Parks and Campsites
+I7041;Organization Hotels and Lodging Houses, on Membership Basis
+I7211;Power Laundries, Family and Commercial
+I7212;Garment Pressing, and Agents for Laundries and Drycleaners
+I7213;Linen Supply
+I7215;Coin-Operated Laundries and Drycleaning
+I7216;Drycleaning Plants, Except Rug Cleaning
+I7217;Carpet and Upholstery Cleaning
+I7218;Industrial Launderers
+I7219;Laundry and Garment Services, Not Elsewhere Classified
+I7221;Photographic Studios, Portrait
+I7231;Beauty Shops
+I7241;Barber Shops
+I7251;Shoe Repair Shops and Shoeshine Parlors
+I7261;Funeral Service and Crematories
+I7291;Tax Return Preparation Services
+I7299;Miscellaneous Personal Services, Not Elsewhere Classified
+I7311;Advertising Agencies
+I7312;Outdoor Advertising Services
+I7313;Radio, Television, and Publishers' Advertising Representatives
+I7319;Advertising, Not Elsewhere Classified
+I7322;Adjustment and Collection Services
+I7323;Credit Reporting Services
+I7331;Direct Mail Advertising Services
+I7334;Photocopying and Duplicating Services
+I7335;Commercial Photography
+I7336;Commercial Art and Graphic Design
+I7338;Secretarial and Court Reporting Services
+I7342;Disinfecting and Pest Control Services
+I7349;Building Cleaning and Maintenance Services, Not Elsewhere
+I7352;Medical Equipment Rental and Leasing
+I7353;Heavy Construction Equipment Rental and Leasing
+I7359;Equipment Rental and Leasing, Not Elsewhere Classified
+I7361;Employment Agencies
+I7363;Help Supply Services
+I7371;Computer Programming Services
+I7372;Prepackaged Software
+I7373;Computer Integrated Systems Design
+I7374;Computer Processing and Data Preparation and Processing Services
+I7375;Information Retrieval Services
+I7376;Computer Facilities Management Services
+I7377;Computer Rental and Leasing
+I7378;Computer Maintenance and Repair
+I7379;Computer Related Services, Not Elsewhere Classified
+I7381;Detective, Guard, and Armored Car Services
+I7382;Security Systems Services
+I7383;News Syndicates
+I7384;Photofinishing Laboratories
+I7389;Business Services, Not Elsewhere Classified
+I7513;Truck Rental and Leasing, Without Drivers
+I7514;Passenger Car Rental
+I7515;Passenger Car Leasing
+I7519;Utility Trailer and Recreational Vehicle Rental
+I7521;Automobile Parking
+I7532;Top, Body, and Upholstery Repair Shops and Paint Shops
+I7533;Automotive Exhaust System Repair Shops
+I7534;Tire Retreading and Repair Shops
+I7536;Automotive Glass Replacement Shops
+I7537;Automotive Transmission Repair Shops
+I7538;General Automotive Repair Shops
+I7539;Automotive Repair Shops, Not Elsewhere Classified
+I7542;Carwashes
+I7549;Automotive Services, Except Repair and Carwashes
+I7622;Radio and Television Repair Shops
+I7623;Refrigeration and Air-Conditioning Service and Repair Shops
+I7629;Electrical and Electronic Repair Shops, Not Elsewhere Classified
+I7631;Watch, Clock, and Jewelry Repair
+I7641;Reupholstery and Furniture Repair
+I7692;Welding Repair
+I7694;Armature Rewinding Shops
+I7699;Repair Shops and Related Services, Not Elsewhere Classified
+I7812;Motion Picture and Video Tape Production
+I7819;Services Allied to Motion Picture Production
+I7822;Motion Picture and Video Tape Distribution
+I7829;Services Allied to Motion Picture Distribution
+I7832;Motion Picture Theaters, Except Drive-In
+I7833;Drive-In Motion Picture Theaters
+I7841;Video Tape Rental
+I7911;Dance Studios, Schools, and Halls
+I7922;Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services
+I7929;Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups
+I7933;Bowling Centers
+I7941;Professional Sports Clubs and Promoters
+I7948;Racing, Including Track Operation
+I7991;Physical Fitness Facilities
+I7992;Public Golf Courses
+I7993;Coin-Operated Amusement Devices
+I7996;Amusement Parks
+I7997;Membership Sports and Recreation Clubs
+I7999;Amusement and Recreation Services, Not Elsewhere Classified
+I8011;Offices and Clinics of Doctors of Medicine
+I8021;Offices and Clinics of Dentists
+I8031;Offices and Clinics of Doctors of Osteopathy
+I8041;Offices and Clinics of Chiropractors
+I8042;Offices and Clinics of Optometrists
+I8043;Offices and Clinics of Podiatrists
+I8049;Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+I8051;Skilled Nursing Care Facilities
+I8052;Intermediate Care Facilities
+I8059;Nursing and Personal Care Facilities, Not Elsewhere Classified
+I8062;General Medical and Surgical Hospitals
+I8063;Psychiatric Hospitals
+I8069;Specialty Hospitals, Except Psychiatric
+I8071;Medical Laboratories
+I8072;Dental Laboratories
+I8082;Home Health Care Services
+I8092;Kidney Dialysis Centers
+I8093;Specialty Outpatient Facilities, Not Elsewhere Classified
+I8099;Health and Allied Services, Not Elsewhere Classified
+I8111;Legal Services
+I8211;Elementary and Secondary Schools
+I8221;Colleges, Universities, and Professional Schools
+I8222;Junior Colleges and Technical Institutes
+I8231;Libraries
+I8243;Data Processing Schools
+I8244;Business and Secretarial Schools
+I8249;Vocational Schools, Not Elsewhere Classified
+I8299;Schools and Educational Services, Not Elsewhere Classified
+I8322;Individual and Family Social Services
+I8331;Job Training and Vocational Rehabilitation Services
+I8351;Child Day Care Services
+I8361;Residential Care
+I8399;Social Services, Not Elsewhere Classified
+I8412;Museums and Art Galleries
+I8422;Arboreta and Botanical or Zoological Gardens
+I8611;Business Associations
+I8621;Professional Membership Organizations
+I8631;Labor Unions and Similar Labor Organizations
+I8641;Civic, Social, and Fraternal Associations
+I8651;Political Organizations
+I8661;Religious Organizations
+I8699;Membership Organizations, Not Elsewhere Classified
+I8711;Engineering Services
+I8712;Architectural Services
+I8713;Surveying Services
+I8721;Accounting, Auditing, and Bookkeeping Services
+I8731;Commercial Physical and Biological Research
+I8732;Commercial Economic, Sociological, and Educational Research
+I8733;Noncommercial Research Organizations
+I8734;Testing Laboratories
+I8741;Management Services
+I8742;Management Consulting Services
+I8743;Public Relations Services
+I8744;Facilities Support Management Services
+I8748;Business Consulting Services, Not Elsewhere Classified
+I8811;Private Households
+I8999;Services, Not Elsewhere Classified
+J9111;Executive Offices
+J9121;Legislative Bodies
+J9131;Executive and Legislative Offices Combined
+J9199;General Government, Not Elsewhere Classified
+J9211;Courts
+J9221;Police Protection
+J9222;Legal Counsel and Prosecution
+J9223;Correctional Institutions
+J9224;Fire Protection
+J9229;Public Order and Safety, Not Elsewhere Classified
+J9311;Public Finance, Taxation, and Monetary Policy
+J9411;Administration of Educational Programs
+J9431;Administration of Public Health Programs
+J9441;Administration of Social, Human Resource and Income Maintenance Programs
+J9451;Administration of Veterans' Affairs, Except Health and Insurance
+J9511;Air and Water Resource and Solid Waste Management
+J9512;Land, Mineral, Wildlife, and Forest Conservation
+J9531;Administration of Housing Programs
+J9532;Administration of Urban Planning and Community and Rural Development
+J9611;Administration of General Economic Programs
+J9621;Regulation and Administration of Transportation Programs
+J9631;Regulation and Administration of Communications, Electric, Gas, and Other Utilities
+J9641;Regulation of Agricultural Marketing and Commodities
+J9651;Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors
+J9661;Space and Research and Technology
+J9711;National Security
+J9721;International Affairs
+J9999;Nonclassifiable Establishments

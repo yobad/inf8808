@@ -1,0 +1,88 @@
+/***** General style *****/
+body {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  text-align: center;
+  fill:white;
+}
+
+.error {
+  color: #914141;
+}
+/***** Tooltip *****/
+.d3-tip {
+  z-index: 10;
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: #333;
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+/****Combo Box*****/
+div.selectDiv {
+  width: 70px;
+  height: 10px;
+  position: absolute;
+  border: none;
+  cursor: pointer;
+}
+
+div#Axe1 {
+  left: 300px;
+  top: 100px;
+  border-right: none;
+  border-bottom: none;
+}
+
+div#Axe2 {
+  left: 1100px;
+  top: 100px;
+  border-left: none;
+  border-top: none;   
+}
+/***** Axes *****/
+.text {
+  fill:white;
+}
+.axis {
+  shape-rendering: crispEdges
+}
+.axis path {
+  fill: none;
+  stroke: white;
+  shape-rendering: crispEdges;
+}
+.axis line {
+  fill: white;
+  stroke: white;
+  shape-rendering: crispEdges;
+}
+.y.axis path {
+  fill: none;
+  stroke: white;
+  stroke-width: 1.5,;
+  shape-rendering: crispEdges;
+  font-size: 12px;
+}

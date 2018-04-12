@@ -1,0 +1,83 @@
+A01;Agricultural Production Crops
+A02;Agriculture production livestock and animal specialties
+A07;Agricultural Services
+A08;Forestry
+A09;Fishing hunting and trapping
+B10;Metal Mining
+B12;Coal Mining
+B13;Oil And Gas Extraction
+B14;Mining And Quarrying Of Nonmetallic Minerals, Except Fuels
+C15;Building Construction General Contractors And Operative Builders
+C16;Heavy Construction Other Than Building Construction Contractors
+C17;Construction Special Trade Contractors
+D20;Food And Kindred Products
+D21;Tobacco Products
+D22;Textile Mill Products
+D23;Apparel And Other Finished Products Made From Fabrics And Similar Materials
+D24;Lumber And Wood Products, Except Furniture
+D25;Furniture And Fixtures
+D26;Paper And Allied Products
+D27;Printing, Publishing, And Allied Industries
+D28;Chemicals And Allied Products
+D29;Petroleum Refining And Related Industries
+D30;Rubber And Miscellaneous Plastics Products
+D31;Leather And Leather Products
+D32;Stone, Clay, Glass, And Concrete Products
+D33;Primary Metal Industries
+D34;Fabricated Metal Products, Except Machinery And Transportation Equipment
+D35;Industrial And Commercial Machinery And Computer Equipment
+D36;Electronic And Other Electrical Equipment And Components, Except Computer Equipment
+D37;Transportation Equipment
+D38;Measuring, Analyzing, And Controlling Instruments, Photographic, Medical And Optical Goods, Watches And Clocks
+D39;Miscellaneous Manufacturing Industries
+E40;Railroad Transportation
+E41;Local And Suburban Transit And Interurban Highway Passenger Transportation
+E42;Motor Freight Transportation And Warehousing
+E43;United States Postal Service
+E44;Water Transportation
+E45;Transportation By Air
+E46;Pipelines, Except Natural Gas
+E47;Transportation Services
+E48;Communications
+E49;Electric, Gas, And Sanitary Services 
+F50;Wholesale Trade-durable Goods
+F51;Wholesale Trade-non-durable Goods
+G52;Building Materials, Hardware, Garden Supply, And Mobile Home Dealers
+G53;General Merchandise Stores
+G54;Food Stores
+G55;Automotive Dealers And Gasoline Service Stations
+G56;Apparel And Accessory Stores
+G57;Home Furniture, Furnishings, And Equipment Stores
+G58;Eating And Drinking Places
+G59;Miscellaneous Retail 
+H60;Depository Institutions
+H61;Non-depository Credit Institutions
+H62;Security And Commodity Brokers, Dealers, Exchanges, And Services
+H63;Insurance Carriers
+H64;Insurance Agents, Brokers, And Service
+H65;Real Estate
+H67;Holding And Other Investment Offices
+I70;Hotels, Rooming Houses, Camps, And Other Lodging Places
+I72;Personal Services
+I73;Business Services
+I75;Automotive Repair, Services, And Parking
+I76;Miscellaneous Repair Services
+I78;Motion Pictures
+I79;Amusement And Recreation Services
+I80;Health Services
+I81;Legal Services
+I82;Educational Services
+I83;Social Services
+I84;Museums, Art Galleries, And Botanical And Zoological Gardens
+I86;Membership Organizations
+I87;Engineering, Accounting, Research, Management, And Related Services
+I88;Private Households
+I89;Miscellaneous Services
+J91;Executive, Legislative, And General Government, Except Finance
+J92;Justice, Public Order, And Safety
+J93;Public Finance, Taxation, And Monetary Policy
+J94;Administration Of Human Resource Programs
+J95;Administration Of Environmental Quality And Housing Programs
+J96;Administration Of Economic Programs
+J97;National Security And International Affairs
+J99;Nonclassifiable Establishments

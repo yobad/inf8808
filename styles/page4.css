@@ -1,0 +1,259 @@
+#page4 {
+  width: calc( 100% - 2px );
+  height: 100%;
+  margin: 0; padding: 0;
+  background-color: white;
+  border: 1px solid transparent;
+  background: none;
+  box-shadow: none;
+  text-align: center;
+}
+
+#list > #list-pagination {
+  position: absolute;
+  left: calc(50% + 10px);
+  bottom: 0px;
+  height: 28px;
+  border-top: 2px solid white;
+  width: calc(50% - 10px);
+
+  box-shadow: inset 1px 1px 8px 8px rgba(0,10,20,.4);
+  background: linear-gradient(90deg, rgb(0,30,60), rgb(0, 0, 0) ) ;
+}
+#list > #list-pagination > p {
+  color: white;
+  font-weight: 100;
+  padding: 4px;
+}
+#list > #list-pagination > p > strong {
+  color: #fc0;
+}
+#list > #list-pagination > .arrow {
+  width: 8px;
+  height: 8px;
+  border: 3px solid #fc0;
+}
+#list > #list-pagination > #leftarrow {
+  left: 150px;
+  bottom: 8px;
+  display: block;
+  border-top: none;
+  border-right: none;
+}
+#list > #list-pagination > #rightarrow {
+  right: 150px;
+  bottom: 8px;
+  display: block;
+  border-left: none;
+  border-bottom: none;
+}
+
+
+#list > #list-header {
+  border-bottom: 2px solid #fc0;
+  height: 49px;
+}
+#list > #list-header > h3 {
+  color: #fc0;
+  padding: 4px;
+}
+#list > #list-header > p#count {
+  color: white;
+  font-style: italic;
+  font-weight: 100;
+}
+#list > #list-header > p#count > strong#nb {
+  color: #fc0;
+}
+
+
+
+
+#list > #resultats {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#list > #resultats > li {
+  border-bottom: 1px solid #fc0;
+  padding: 5px;
+}
+
+
+#list > #resultats > li >h3 {
+  font-size: 14px;
+  color: #FC0;
+  font-weight: 100;
+}
+#list > #resultats > li > p {
+  font-size: 12px
+  
+}
+#list > #resultats > li > p > a {
+  color: rgb(0,80,180);
+  text-decoration: none;
+  
+}
+
+
+
+#filters > .slider-holder > .slider-label {
+  font-weight: 100;
+  text-shadow: #000 -1px -1px;
+}
+
+#filters > .slider-holder > p {
+  color: #CCC;
+  font-style: italic;
+}
+#filters > .slider-holder > p > strong {
+  color: #FC0;
+}
+
+#treeview-container {
+  width: calc(100% - 3px);
+  height: 22px;
+  cursor: pointer;
+  margin: 1px 0px;
+
+  box-shadow: inset 1px 1px 8px 8px rgba(0,10,20,.4);
+  background: radial-gradient( rgb(0,30,60), rgb(0, 0, 0) ) ;
+
+  border: 1px solid white;
+
+}
+#treeview-container > .acidjs-css3-treeview {
+  position: relative;
+  max-height: 500px;
+  overflow-y: scroll;
+  z-index: 39999;
+
+  box-shadow: inset 1px 1px 8px 8px rgba(0,10,20,.4);
+  background: radial-gradient( rgb(0,20,40), rgb(0, 0, 0) ) ;
+
+  text-align: left;
+  padding-left: 30px;
+  border: 1px solid #FC0;
+  border-radius: 5px;
+}
+
+#left {
+  width: calc(50% - 10px);
+  margin-left: 19px;
+  float: left;
+  border-right: 1px solid white;
+
+}
+#mapid { 
+	width: 100%;
+	height: 400px; 
+	background-color: #333;
+  border-bottom: 1px solid white;
+}
+#greymap {
+  width: 100%;
+  height: 400px;
+  background-color: rgba(50,50,50,0.7);
+  position: relative;
+  left: 0;
+  top: 0;
+  z-index: 29999;
+}
+#left > .divTitle {
+  color: #FC0;
+  padding: 10px;
+  border-bottom: 2px solid #FC0;
+}
+
+
+#pac-input {
+  width: calc(100% - 140px);
+  position: absolute;
+  left: 100px;
+  top: 12px;
+  z-index: 19999;
+  font-family: "Roboto";
+  font-weight: 600;
+  font-size: 18px;
+}
+
+#greymap > #button {
+  margin: 5px;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 2px 2px;
+  color: #222222;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;
+  background: linear-gradient( 180deg, #99CCFF, #5599AA );
+  margin-top: 180px;
+}
+
+
+#filters {
+  height: 100px;
+}
+#list {
+  width: calc(50% - 10px);
+  float: right;
+  overflow-y: scroll;
+}
+
+/* slider ------------------------------ */
+.slider-holder{
+  width: 100%;
+  height: 75px;
+  margin-top:10px;
+}
+#slider1 {
+  width: calc(50% - 2px);
+  float: left; 
+}
+#slider2 {
+  
+  width: calc(50% - 2px); 
+  float: right; 
+}
+
+
+.ticks {
+  font: 14px sans-serif;
+  fill: white;
+}
+
+.track,
+.track-inset,
+.track-overlay {
+  stroke-linecap: round;
+}
+
+.track {
+  stroke: #bbb;
+  stroke-width: 10px;
+}
+
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 50px;
+  cursor: crosshair;
+}
+
+.sel-range{
+  stroke: #db8400 ;
+  stroke-width: 10px;
+}
+
+.handle {
+  fill: #E0F7FA;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px;
+}
+.handle:hover{
+  fill:rgba(50, 30, 0, 0.95);
+}
+.handle.active {
+  fill: #4DD0E1; 
+}

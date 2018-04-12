@@ -1,0 +1,68 @@
+
+select{
+  height:30px;
+  color:#fff;
+  background: radial-gradient( rgb(0, 30, 60), rgb(30, 30, 30));
+  border-radius: 5px 5px 5px 5px;
+  font-size: 12px;
+  display:inline-block;
+  overflow:hidden; 
+  border: 1px solid white;
+  box-shadow: inset 1px 1px 8px 8px rgba(0,0,0,.4);
+}
+option {
+  color: black;
+}
+
+.y.axis#axeY1 line {
+  stroke: #F49342;
+  stroke-opacity:0.5;
+  stroke-dasharray: 2,2,2,2,2,2;
+}
+.y.axis#axeY2 line {
+  stroke: #DE3618;
+  stroke-opacity:0.5;
+  stroke-dasharray: 5,5,5,5,5,5;
+}
+
+div#double-bar-chart-div{
+  width:calc(100% - 200px);
+  margin: auto;
+  margin-top:10px ;
+}
+/****Combo Box*****/
+div.comboBox-container{
+  width: calc(100% - 200px);
+  height:50px;
+  margin: auto;
+}
+div.selectDiv {
+  height: 100%;
+  cursor: pointer;
+}
+
+div#Axe1 {
+  top: 100px;
+  float:left;
+}
+
+div#Axe2 {
+  top: 100px;
+  float:right; 
+}
+.bar1 {
+  fill:#F49342;
+  stroke: black;
+}
+.bar2 {
+  fill:  #DE3618;
+  stroke: black;
+}
+.bar1.hovered-bar {
+  fill:#f28326;
+  stroke: white;
+}
+.bar2.hovered-bar {
+  fill: #f62500;
+  stroke: white;
+}
